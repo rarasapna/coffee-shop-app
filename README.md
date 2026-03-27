@@ -1,3 +1,18 @@
+# Coffee Shop Web App
+
+A modern web application built with React and TypeScript.
+
+## Features
+- Explore cafes
+- Add new cafes
+- Responsive design
+
+## Tech Stack
+- React
+- TypeScript
+- Supabase
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
